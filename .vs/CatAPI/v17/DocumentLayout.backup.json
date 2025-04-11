@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|c:\\users\\bozhidar samokovski\\desktop\\cat_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|c:\\users\\bozhidar samokovski\\desktop\\cat_api\\catapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|solutionrelative:catapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|c:\\users\\bozhidar samokovski\\desktop\\cat_api\\servies\\catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25941C0-7388-0410-F267-7F508890381E}|CatAPI.csproj|solutionrelative:servies\\catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T11:54:29.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\CatAPI.csproj",
+              "RelativeDocumentMoniker": "CatAPI.csproj",
+              "ToolTip": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\CatAPI.csproj",
+              "RelativeToolTip": "CatAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T11:50:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatService.cs",
+              "DocumentMoniker": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\Servies\\CatService.cs",
+              "RelativeDocumentMoniker": "Servies\\CatService.cs",
+              "ToolTip": "C:\\Users\\Bozhidar Samokovski\\Desktop\\Cat_API\\Servies\\CatService.cs",
+              "RelativeToolTip": "Servies\\CatService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:42:31.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

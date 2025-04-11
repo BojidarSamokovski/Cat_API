@@ -1,0 +1,15 @@
+﻿@model List<CatAPI.Models.CatImage>
+
+<h2>Cat Images 🐱</h2>
+<div class="cat-grid" style="display: flex; flex-wrap: wrap; gap: 20px;">
+    @foreach (var cat in Model)
+    {
+        <div class="cat-card" style="border: 1px solid #ccc; padding: 10px; width: 300px;">
+            <img src="@cat.Url" alt="Cat image" width="100%" />
+            @if (cat.Breeds?.Any() == true)
+            {
+                <p><strong>Breed:</strong> @cat.Breeds[0].Name</p>
+            }
+        </div>
+    }
+</div>
