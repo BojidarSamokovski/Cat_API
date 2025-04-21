@@ -1,0 +1,14 @@
+﻿@model CatAPI.Models.CatImage
+
+<h2>Информация за котка</h2>
+
+@if (!string.IsNullOrEmpty(Model.Url))
+{
+    <img src="@Model.Url" alt="Cat Image" width="400" />
+}
+else
+{
+    <p>Няма информация за порода.</p>
+}
+
+<a href="@Url.Action("Index", "Cats")">⬅ Обратно към котенцата</a>

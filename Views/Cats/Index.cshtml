@@ -6,6 +6,11 @@
     {
         <div class="cat-card" style="border: 1px solid #ccc; padding: 10px; width: 300px;">
             <img src="@cat.Url" alt="Cat image" width="100%" />
+            <form asp-action="SaveToDb" method="post">
+                <input type="hidden" name="id" value="@cat.Id" />
+                <button type="submit">Запази в базата</button>
+            </form>
+            <a href="@Url.Action("Details", "Cats", new { id = cat.Id })">Виж детайли</a>
             @if (cat.Breeds?.Any() == true)
             {
                 <p><strong>Breed:</strong> @cat.Breeds[0].Name</p>

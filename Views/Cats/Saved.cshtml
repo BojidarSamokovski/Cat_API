@@ -1,0 +1,26 @@
+﻿@model List<CatAPI.Models.CatImage>
+
+<h2>📦 Запазени котенца</h2>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>Все още няма запазени котенца.</p>
+}
+else
+{
+    <div class="saved-cats">
+        @foreach (var cat in Model)
+        {
+            <div class="saved-cat-card">
+                <img src="@cat.Url" alt="Котенце" width="@cat.Width" height="@cat.Height" />
+                <form asp-action="Delete" method="post">
+                    <input type="hidden" name="id" value="@cat.Id" />
+                    <button type="submit" onclick="return confirm('Сигурен ли си, че искаш да изтриеш това котенце?');">
+                        ❌ Изтрий
+                    </button>
+                </form>
+                <p><strong>@cat.Breeds</strong></p>
+            </div>
+        }
+    </div>
+}

@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Bozhidar Samokovski/Desktop/Cat_API/Views/Cats/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bozhidar Samokovski/Desktop/Cat_API/Views/Cats/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bozhidar Samokovski/Desktop/Cat_API/Views/Cats/Saved.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xTYXZlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bozhidar Samokovski/Desktop/Cat_API/Views/Home/Index.cshtml]
